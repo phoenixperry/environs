@@ -3,7 +3,7 @@
 
 Phoenix Perry - phoenix.perry@arts.ac.uk
 
-All class information is living here: https://github.com/phoenixperry/
+All class information is living here: https://github.com/phoenixperry/environs
 
 Mon from 09.30 - 13.30, B501-03 (refer to Celcat timetable for latest information https://mytimetable.arts.ac.uk/)
 
